@@ -21,4 +21,4 @@ samples, guidance on mobile development, and a full API reference.
 Flutter run
 
 
-<img= "https://res.cloudinary.com/developments/image/upload/v1655416917/travel_app/photo_2022-06-16_16-57-07_ststvo.jpg" width=50>
+<img src="https://res.cloudinary.com/developments/image/upload/v1655416917/travel_app/photo_2022-06-16_16-57-07_ststvo.jpg" width=50>
