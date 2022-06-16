@@ -21,4 +21,12 @@ samples, guidance on mobile development, and a full API reference.
 Flutter run
 
 
-<img src="https://res.cloudinary.com/developments/image/upload/v1655416917/travel_app/photo_2022-06-16_16-57-07_ststvo.jpg" width=50>
+<img src="https://res.cloudinary.com/developments/image/upload/v1655416917/travel_app/photo_2022-06-16_16-57-07_ststvo.jpg" width=100>
+
+<img src="https://res.cloudinary.com/developments/image/upload/v1655417115/travel_app/photo_2022-06-16_17-04-47_hfjd70.jpg" width=100>
+
+<img src="https://res.cloudinary.com/developments/image/upload/v1655417115/travel_app/photo_2022-06-16_17-04-48_axgski.jpg" width=100>
+
+<img src="https://res.cloudinary.com/developments/image/upload/v1655417115/travel_app/photo_2022-06-16_17-04-53_ub2gd9.jpg" width=100>
+
+<img src="https://res.cloudinary.com/developments/image/upload/v1655417115/travel_app/photo_2022-06-16_17-04-55_cx0ldh.jpg" width=100>
