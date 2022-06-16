@@ -1,6 +1,7 @@
 # travel_app
 
 A new Flutter project travel, developed with flutter and State Cubit
+[Document].(https://pub.dev/documentation/flutter_cubit/latest/)
 
 ## Getting Started
 
